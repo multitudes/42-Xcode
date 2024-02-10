@@ -64,3 +64,17 @@ Using Xcode to build and then execute your program passing the output in the ter
 <p align="left">
   <img src="assets/seven.png" width="400"  title="seven">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+## build and run
+Use the play button to build and run.  
+Put some breakpoint in your code and Xcode will offer a quite nice interface to examine your code. I have to say the setup was a bit of a pain, but being able to see your code and the values of your local properties in the window on the bottom next to the console is quite worth it :)
+<br>
+<p align="left">
+  <img src="assets/eight.png" width="400"  title="eight">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+Here I could immediately see why my program was not exiting. A rookie mistake to forget to increment the i counter! Quickly fixed and I can continue working on my assignment for 42 berlin wich as you might have guessed, is the famous philosopher dilemma!
+
+
+
+
+
