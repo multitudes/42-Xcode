@@ -8,7 +8,10 @@ Xcode is primarily used for Swift app development for Apple platforms. Here, I s
 ## The easy way is to use Xcode as an editor only
 
 In this mode, you can configure a keystroke to open the terminal in a new window and use the normal 'make' commands to build and execute on the command line. This way, you cannot use Xcode to debug your executable as described in the steps below.
-
+<br>
+<p align="left">
+  <img src="assets/keybindings.png" width="400"  title="keybindings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ## Use Xcode for build and execute.
 
 ### Create a project
