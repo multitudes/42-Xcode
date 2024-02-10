@@ -12,6 +12,7 @@ In this mode, you can configure a keystroke to open the terminal in a new window
 <p align="left">
   <img src="assets/keybindings.png" width="400"  title="keybindings">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 ## Use Xcode for build and execute.
 
 ### Create a project
