@@ -1,25 +1,25 @@
-
 # 42-Xcode
-How to use Xcode for Mac for C projects at 42 berlin
-Xcode can be a powerful tool to debug your C and C++ programs on a mac. It is a bit more difficult to get started compared to other IDE's like visual studio code.  
-Xcode is primarily used for Swift a app development for the apple platforms. Here I show how to set it up for a C project.  
 
-# The easy way is to use Xcode as an editor only
-In this mode you can configure a key stroke to use to open the terminal in a new window and use the normal 'make' commands to build and execute on the command line. In this way you cannot use xcode to debug your executable like you would with the steps described below.
+How to use Xcode for Mac for C projects at 42 Berlin
 
-# Use Xcode for build and execute.
+Xcode can be a powerful tool for debugging your C and C++ programs on a Mac. It is a bit more challenging to get started compared to other IDEs like Visual Studio Code.
+Xcode is primarily used for Swift app development for Apple platforms. Here, I show how to set it up for a C project.
 
-## Create a project
+## The easy way is to use Xcode as an editor only
 
-Even if you have already a folder with your files and makefile you need to create a project in Xcode:
+In this mode, you can configure a keystroke to open the terminal in a new window and use the normal 'make' commands to build and execute on the command line. This way, you cannot use Xcode to debug your executable as described in the steps below.
 
+## Use Xcode for build and execute.
+
+### Create a project
+
+Even if you already have a folder with your files and a makefile, you need to create a project in Xcode:
 <br>
 <p align="left">
   <img src="assets/one.png" width="400"  title="one">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-You will not be programming for iOS or macOS so click on the 'other' tab and chose external build system.  
-This will allow to use 'make'.  
+You will not be programming for iOS or macOS, so click on the 'other' tab and choose an external build system. This will allow you to use 'make.'  
 <br>
 <p align="left">
   <img src="assets/two.png" width="400"  title="two">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
